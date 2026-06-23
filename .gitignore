@@ -1,0 +1,22 @@
+# KiCad project local settings
+*.kicad_prl
+*.kicad_pro-bak
+
+# KiCad lock files
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+# KiCad autosave
+#auto_saved_files#
+
+# KiCad backup directory
+*-backups/
+
+# KiCad cache
+fp-info-cache
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
