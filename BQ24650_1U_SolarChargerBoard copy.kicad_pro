@@ -661,13 +661,13 @@
         "uuid": "97f2ae87-13ff-4eec-a108-f469a6765d40"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J2-6,TP3-9",
     "variants": []
   },
   "sheets": [
     [
       "97f2ae87-13ff-4eec-a108-f469a6765d40",
-      "BQ24650_1U_SolarChargerBoard"
+      "BQ24650_1U_SolarChargerBoard copy"
     ]
   ],
   "text_variables": {},

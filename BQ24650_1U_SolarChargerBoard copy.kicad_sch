@@ -548,409 +548,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:Conn_01x02_Pin"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02_Pin"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x02_Pin_1_1"
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Connector:Conn_01x03_Pin"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03_Pin"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x03_Pin_1_1"
-				(rectangle
-					(start 0.8636 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 2.54) (xy 0.8636 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers
 				(hide yes)
@@ -3095,8 +2692,8 @@
 		)
 	)
 	(rectangle
-		(start 198.12 77.47)
-		(end 237.49 107.95)
+		(start 201.93 80.01)
+		(end 232.41 102.87)
 		(stroke
 			(width 0)
 			(type dash_dot_dot)
@@ -3131,8 +2728,8 @@
 		(uuid "1a0c4a41-5b77-4140-90ae-b5190d3fd51e")
 	)
 	(rectangle
-		(start 190.5 110.49)
-		(end 245.11 138.43)
+		(start 184.15 111.76)
+		(end 254 146.05)
 		(stroke
 			(width 0)
 			(type dash_dot_dot)
@@ -3203,8 +2800,8 @@
 		(uuid "b27dc37f-7c72-406b-b3bf-ce25fa5b0031")
 	)
 	(rectangle
-		(start 194.31 45.72)
-		(end 240.03 73.66)
+		(start 199.39 45.72)
+		(end 234.95 73.66)
 		(stroke
 			(width 0)
 			(type dash_dot_dot)
@@ -3258,7 +2855,7 @@
 	)
 	(text "power flags\n\n"
 		(exclude_from_sim no)
-		(at 206.756 82.55 0)
+		(at 209.804 84.074 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3298,7 +2895,7 @@
 	)
 	(text "connectors\n"
 		(exclude_from_sim no)
-		(at 197.866 113.03 0)
+		(at 191.516 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3348,7 +2945,7 @@
 	)
 	(text "test pads\n"
 		(exclude_from_sim no)
-		(at 200.66 47.752 0)
+		(at 206.756 48.006 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3441,10 +3038,10 @@
 		(uuid "b616c42b-7119-4dfe-b5db-f4bd23d39ca5")
 	)
 	(junction
-		(at 52.07 57.15)
+		(at 78.74 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b66d0791-d094-46d8-8c56-a6a589cb418c")
+		(uuid "c3ab331b-d18a-473f-9e7c-f6ca4448121c")
 	)
 	(junction
 		(at 133.35 91.44)
@@ -3471,16 +3068,16 @@
 		(uuid "e0eb87b3-5585-4fa9-a4b2-5da7267521f3")
 	)
 	(junction
+		(at 52.07 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e85d2392-d17d-4637-a992-752a848ca073")
+	)
+	(junction
 		(at 100.33 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed70cf01-8d6b-4ef1-a951-5f87bbdb1136")
-	)
-	(junction
-		(at 78.74 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eef1ca6e-9083-4e3d-99b1-0d432177325e")
 	)
 	(no_connect
 		(at 59.69 53.34)
@@ -3509,16 +3106,6 @@
 			(type default)
 		)
 		(uuid "030cb63a-ee9a-404f-b5ab-60f2966c6218")
-	)
-	(wire
-		(pts
-			(xy 78.74 163.83) (xy 78.74 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04cb49b5-0d92-47bb-a179-451803070cd7")
 	)
 	(wire
 		(pts
@@ -3562,7 +3149,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 57.15) (xy 52.07 58.42)
+			(xy 52.07 53.34) (xy 52.07 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3752,7 +3339,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 124.46) (xy 237.49 124.46)
+			(xy 204.47 127) (xy 209.55 127)
 		)
 		(stroke
 			(width 0)
@@ -3792,7 +3379,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 125.73) (xy 214.63 125.73)
+			(xy 241.3 127) (xy 236.22 127)
 		)
 		(stroke
 			(width 0)
@@ -3802,7 +3389,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 128.27) (xy 214.63 128.27)
+			(xy 241.3 134.62) (xy 236.22 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3872,6 +3459,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 57.15) (xy 52.07 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6867b702-e9ce-457d-bd04-13e71b6549a4")
+	)
+	(wire
+		(pts
 			(xy 110.49 54.61) (xy 110.49 49.53)
 		)
 		(stroke
@@ -3922,23 +3519,13 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 55.88) (xy 208.28 60.96)
+			(xy 210.82 55.88) (xy 210.82 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "73bf42f4-cfef-4d17-8ae6-9cbaf79c7da4")
-	)
-	(wire
-		(pts
-			(xy 52.07 53.34) (xy 52.07 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74f95021-9af4-413c-ae65-c2412a9cb5f5")
 	)
 	(wire
 		(pts
@@ -4192,7 +3779,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 127) (xy 237.49 127)
+			(xy 204.47 134.62) (xy 209.55 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4252,7 +3839,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 165.1) (xy 78.74 166.37)
+			(xy 78.74 163.83) (xy 78.74 166.37)
 		)
 		(stroke
 			(width 0)
@@ -4332,7 +3919,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 125.73) (xy 201.93 125.73)
+			(xy 204.47 118.11) (xy 205.74 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4518,54 +4105,6 @@
 			)
 		)
 	)
-	(global_label "TERM_EN"
-		(shape input)
-		(at 226.06 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "16b35a23-6094-4600-a0f5-c8fb66226dc5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.06 49.6897 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MPPSET"
-		(shape input)
-		(at 223.52 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "271d0edd-c7aa-4242-afe4-bb45eb7dfa53")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.52 50.6573 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "CE"
 		(shape input)
 		(at 36.83 50.8 180)
@@ -4683,6 +4222,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MPPSET"
+		(shape input)
+		(at 222.25 59.69 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3f71d66e-3a0c-4586-95bb-c3e6f826cedb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 222.25 49.3873 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -4830,6 +4393,54 @@
 			)
 		)
 	)
+	(global_label "PH"
+		(shape input)
+		(at 214.63 59.69 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7b225256-d2ad-4e77-9cae-44b735b8364c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 214.63 54.1043 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "REGN"
+		(shape input)
+		(at 217.17 59.69 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7b6cd281-44e3-4064-b255-5728732f4041")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 217.17 51.6853 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "STAT1"
 		(shape input)
 		(at 123.19 154.94 180)
@@ -4851,30 +4462,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "VFB"
-		(shape input)
-		(at 228.6 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "81d0d4a0-8871-461a-8671-4336906ee19a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.6 54.5276 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -4904,7 +4491,7 @@
 	)
 	(global_label "TS"
 		(shape input)
-		(at 229.87 129.54 0)
+		(at 236.22 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4914,7 +4501,7 @@
 		)
 		(uuid "87f7e704-d3df-4093-92bd-53f23eef4e95")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.0323 129.54 0)
+			(at 241.3823 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4939,30 +4526,6 @@
 		(uuid "89e605d7-f92b-4bb3-99bb-a9b403893dcc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 86.1399 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "STAT1"
-		(shape input)
-		(at 213.36 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8bd28cbf-7155-43ce-ab5d-06d007e9b488")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 213.36 52.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5094,54 +4657,6 @@
 			)
 		)
 	)
-	(global_label "CE"
-		(shape input)
-		(at 210.82 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b6106c2a-ac9f-4ff3-9955-a91a285ef164")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.82 55.5558 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "VREF"
-		(shape input)
-		(at 220.98 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bcde9978-f8c2-43c7-b4de-c147cfe224a3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.98 53.3786 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "MPPSET"
 		(shape input)
 		(at 63.5 45.72 0)
@@ -5190,33 +4705,9 @@
 			)
 		)
 	)
-	(global_label "REGN"
-		(shape input)
-		(at 218.44 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c9a6a2f3-26ca-4505-ae80-a0bb43a3485c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.44 52.9553 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "CE"
 		(shape input)
-		(at 201.93 125.73 0)
+		(at 205.74 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5226,7 +4717,7 @@
 		)
 		(uuid "ca4addce-bbfc-4866-8429-b80d935820dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.3342 125.73 0)
+			(at 211.1442 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5286,6 +4777,30 @@
 			)
 		)
 	)
+	(global_label "VREF"
+		(shape input)
+		(at 219.71 59.69 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d7a0f515-7667-4563-a761-14f806ca8c60")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.71 52.1086 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "PH"
 		(shape input)
 		(at 78.74 91.44 0)
@@ -5334,30 +4849,6 @@
 			)
 		)
 	)
-	(global_label "STAT2"
-		(shape input)
-		(at 215.9 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e0328c29-acfa-449b-bb32-44613788c10d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.9 52.532 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "HIDRV"
 		(shape input)
 		(at 78.74 88.9 0)
@@ -5395,6 +4886,30 @@
 		(uuid "f2c48d6a-114c-4e84-8683-4e05dca9f0eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 85.898 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "VFB"
+		(shape input)
+		(at 224.79 59.69 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5a94272-5544-4f88-a7df-a3b73cbbccae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 224.79 53.2576 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5475,9 +4990,85 @@
 			(uuid "1a63eb60-4cb6-4193-a788-12625bcb5b5f")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 199.39 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00f9ced5-1203-4d40-85cf-09cd99e34440")
+		(property "Reference" "J4"
+			(at 213.868 126.492 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BATT+"
+			(at 195.834 127 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 199.39 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 199.39 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cde83d55-e62d-48a5-913a-b7a9a8170ca6")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -5517,7 +5108,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 139.7 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5557,7 +5148,7 @@
 			(uuid "4e89ed87-499b-4bba-976f-0aa240908d2b")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C9")
 					(unit 1)
@@ -5566,8 +5157,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 209.55 125.73 0)
+		(lib_id "Connector:TestPoint")
+		(at 214.63 59.69 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5575,9 +5166,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "0a550b63-d757-45b9-9433-a81713dcd7cd")
-		(property "Reference" "J1"
-			(at 218.186 118.11 0)
+		(uuid "08f4f2da-0906-4639-8504-9ba794c7d4ec")
+		(property "Reference" "TP5"
+			(at 214.884 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5586,8 +5177,9 @@
 				)
 			)
 		)
-		(property "Value" "Solar IO"
-			(at 213.868 135.382 0)
+		(property "Value" "TestPoint"
+			(at 212.09 62.992 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5596,8 +5188,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 209.55 125.73 0)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 209.55 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5608,7 +5200,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 125.73 0)
+			(at 209.55 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5618,8 +5210,8 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 209.55 125.73 0)
+		(property "Description" "test point"
+			(at 214.63 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5628,17 +5220,14 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "dda1f4d3-ea29-4025-8a61-d447368e516a")
 		)
 		(pin "1"
-			(uuid "5c660ce4-de69-4647-b54f-6fa1fffe7cf8")
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "J1")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -5715,7 +5304,7 @@
 			(uuid "db12b37b-27b9-47b2-ae7a-66067a4de1d1")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR033")
 					(unit 1)
@@ -5805,7 +5394,7 @@
 			(uuid "184c6cfd-8604-41d8-8333-69c007a94d84")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "D4")
 					(unit 1)
@@ -5886,7 +5475,7 @@
 			(uuid "9292bd21-cb44-49a0-9aae-904532f2c477")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R7")
 					(unit 1)
@@ -5967,7 +5556,7 @@
 			(uuid "ef4d9a7c-d24d-45a8-9abe-2f4447605e23")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R4")
 					(unit 1)
@@ -5976,8 +5565,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 205.74 62.23 0)
+		(lib_id "Connector:TestPoint")
+		(at 219.71 59.69 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5985,10 +5574,19 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a9411f3-ddaf-4b0f-bc99-dcd5bb266009")
-		(property "Reference" "#PWR014"
-			(at 205.74 68.58 0)
+		(uuid "168bd6fb-5df9-47db-bb19-6f6db2947da7")
+		(property "Reference" "TP7"
+			(at 219.964 66.04 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 217.17 62.992 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5998,19 +5596,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 205.74 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 62.23 0)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 214.63 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6021,7 +5608,86 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 62.23 0)
+			(at 214.63 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 219.71 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.28 62.23 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a9411f3-ddaf-4b0f-bc99-dcd5bb266009")
+		(property "Reference" "#PWR014"
+			(at 208.28 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.28 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6032,7 +5698,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 62.23 0)
+			(at 208.28 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6046,7 +5712,7 @@
 			(uuid "67643ca1-fd34-4759-883b-19179682f4db")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR014")
 					(unit 1)
@@ -6124,7 +5790,7 @@
 			(uuid "a3f5cf4b-78a8-4375-94e2-f6dd776ff287")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR023")
 					(unit 1)
@@ -6166,7 +5832,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 130.81 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6206,7 +5872,7 @@
 			(uuid "ca5b6883-a602-4194-ae57-d65fd1cd1340")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C8")
 					(unit 1)
@@ -6285,7 +5951,7 @@
 			(uuid "0cfbaa56-8cc0-47b0-b923-de53985557e4")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR025")
 					(unit 1)
@@ -6364,7 +6030,7 @@
 			(uuid "976f48bb-ef3b-4604-9f65-793d00bed78d")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR026")
 					(unit 1)
@@ -6443,7 +6109,7 @@
 			(uuid "11e61fee-1977-49af-a0c1-ca4bc2cf1e12")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR035")
 					(unit 1)
@@ -6525,7 +6191,7 @@
 			(uuid "70e79985-a297-45db-a987-81ba5449330b")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C2")
 					(unit 1)
@@ -6603,7 +6269,7 @@
 			(uuid "d1ba788f-01b0-40bf-92d8-dc9178f5d27e")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR020")
 					(unit 1)
@@ -6613,7 +6279,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 223.52 92.71 0)
+		(at 220.98 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6624,7 +6290,7 @@
 		(fields_autoplaced yes)
 		(uuid "3cad907d-a3fb-44e7-9ab9-aa43e4d06254")
 		(property "Reference" "#FLG04"
-			(at 223.52 90.805 0)
+			(at 220.98 92.075 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6635,7 +6301,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 223.52 87.63 0)
+			(at 220.98 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6646,7 +6312,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 223.52 92.71 0)
+			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6657,7 +6323,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 92.71 0)
+			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6668,7 +6334,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 223.52 92.71 0)
+			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6682,7 +6348,7 @@
 			(uuid "2ef1e88f-31a0-4841-8de0-b42ae5edc82e")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#FLG04")
 					(unit 1)
@@ -6761,7 +6427,7 @@
 			(uuid "937d9e9b-bf02-425f-a2a2-c39f1daa606c")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#FLG05")
 					(unit 1)
@@ -6841,9 +6507,85 @@
 			(uuid "128b61e8-8e8f-4726-9d85-ce286b352b8a")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 231.14 118.11 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "410f313b-9117-4bd6-b41d-56f8fffe3e50")
+		(property "Reference" "J6"
+			(at 243.332 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS"
+			(at 228.854 118.364 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bbd9c75b-c623-4bb4-9484-2134dcd26e45")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -6919,86 +6661,9 @@
 			(uuid "4650f453-900d-4fe7-84f3-50d520f02672")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 52.07 57.15 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4425f24b-8912-42c6-8a9a-f837205c6178")
-		(property "Reference" "TP12"
-			(at 58.42 56.896 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 55.372 59.69 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 52.07 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 52.07 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ac2ed11d-124e-4e0f-ad41-fc401a139fdc")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -7075,9 +6740,163 @@
 			(uuid "74506595-daeb-4148-b73f-c651aa08199c")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 52.07 57.15 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4b33b3c8-b463-4aa5-b987-49b91d02403d")
+		(property "Reference" "TP3"
+			(at 58.42 56.896 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 55.372 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 52.07 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 52.07 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f6bd1b1-6b73-4bf1-a2b0-693457554347")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 78.74 163.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4d6ef6c7-17b6-4289-9524-51d55b9d7237")
+		(property "Reference" "TP4"
+			(at 72.39 164.084 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 75.438 161.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 78.74 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 78.74 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d57969e4-b1cf-4130-bf9f-792e449785cd")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -7159,7 +6978,7 @@
 			(uuid "4deecf89-0aab-45b4-8fa2-02714481bb11")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "RV1")
 					(unit 1)
@@ -7261,7 +7080,7 @@
 			(uuid "fce94d61-f0b5-4c8f-a211-852002a6ce77")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "D1")
 					(unit 1)
@@ -7343,91 +7162,9 @@
 			(uuid "cd237cdd-5698-457a-a920-e323d5476b0f")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x03_Pin")
-		(at 224.79 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "572657bb-6952-4677-8610-abdf66b6623b")
-		(property "Reference" "J2"
-			(at 237.236 116.332 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Battery IO"
-			(at 230.378 134.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 224.79 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 224.79 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "55bd3e44-5f3c-46c1-abc2-86791ec579d8")
-		)
-		(pin "3"
-			(uuid "405c3e47-d383-4492-a7b6-fc8df573314a")
-		)
-		(pin "2"
-			(uuid "f86ef7b7-aa2b-4133-a9c5-6abbcd1e70ed")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -7504,7 +7241,7 @@
 			(uuid "dd9ee264-5b52-44a3-b00b-f007fa399e14")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR037")
 					(unit 1)
@@ -7514,7 +7251,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 128.27 0)
+		(at 241.3 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7525,7 +7262,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a968411-46b2-4b02-b822-a636c707854d")
 		(property "Reference" "#PWR02"
-			(at 217.17 134.62 0)
+			(at 241.3 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7536,7 +7273,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 217.17 133.35 0)
+			(at 241.3 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7546,7 +7283,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 128.27 0)
+			(at 241.3 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7557,7 +7294,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 128.27 0)
+			(at 241.3 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7568,7 +7305,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 128.27 0)
+			(at 241.3 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7582,7 +7319,7 @@
 			(uuid "9c39bae6-8c42-46fb-a400-707b79a1b057")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR02")
 					(unit 1)
@@ -7661,7 +7398,7 @@
 			(uuid "5ed07ced-b2c6-4573-9902-41a2e5b5fd33")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR017")
 					(unit 1)
@@ -7739,7 +7476,7 @@
 			(uuid "96c9346e-d0ec-42f9-9a00-5233544b1034")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR015")
 					(unit 1)
@@ -7818,86 +7555,9 @@
 			(uuid "1eff06f9-fb83-4867-b4a8-2b9e2dbed3e0")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 210.82 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6168ced1-a2a4-4047-a012-b427bccb1154")
-		(property "Reference" "TP3"
-			(at 211.074 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 208.28 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 205.74 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 210.82 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f5998c21-78c4-460e-83ec-39f6608973e7")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -7973,7 +7633,7 @@
 			(uuid "8688e37a-aa03-482d-80da-5f665112c14a")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR022")
 					(unit 1)
@@ -8052,86 +7712,9 @@
 			(uuid "ec71f4d9-27bd-4c4d-aeaa-dd91131ad3ed")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 223.52 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "66847fa7-66af-4fe3-9c38-f5c0faa95a3c")
-		(property "Reference" "TP8"
-			(at 223.774 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 220.98 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 218.44 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 223.52 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a757def9-8ae2-4b4c-a6af-9329cf7b8fa1")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -8211,7 +7794,7 @@
 			(uuid "93022f71-0fd1-4c98-8c37-b865f19f00ca")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R5")
 					(unit 1)
@@ -8220,8 +7803,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 237.49 124.46 0)
+		(lib_id "Connector:TestPoint")
+		(at 224.79 59.69 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8229,9 +7812,19 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "6e956cb1-e077-4778-a4dd-9d293d085efd")
-		(property "Reference" "#PWR09"
-			(at 237.49 128.27 0)
+		(uuid "69c3d80a-cf6b-4362-834b-d564db251533")
+		(property "Reference" "TP9"
+			(at 225.044 66.04 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 222.25 62.992 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8241,18 +7834,8 @@
 				)
 			)
 		)
-		(property "Value" "+BATT"
-			(at 237.49 120.904 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 237.49 124.46 0)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 219.71 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8263,7 +7846,84 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 124.46 0)
+			(at 219.71 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 224.79 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 209.55 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6e956cb1-e077-4778-a4dd-9d293d085efd")
+		(property "Reference" "#PWR09"
+			(at 209.55 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 209.55 123.444 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8274,7 +7934,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 237.49 124.46 0)
+			(at 209.55 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8288,7 +7948,7 @@
 			(uuid "fac711be-9ed8-49dd-a977-257aeb465614")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR09")
 					(unit 1)
@@ -8414,7 +8074,7 @@
 			(uuid "bf8f5487-6fe8-46d0-bdb0-d7481c7ced89")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "U1")
 					(unit 1)
@@ -8496,7 +8156,7 @@
 			(uuid "ca4e21a4-880b-423f-8766-95aa700eb270")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C10")
 					(unit 1)
@@ -8574,7 +8234,7 @@
 			(uuid "04f66208-c0b6-4c22-bce5-c0adbbaf02a5")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR024")
 					(unit 1)
@@ -8654,7 +8314,7 @@
 			(uuid "283e494b-55dd-4e1a-b1ea-205b2b4cc9b8")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R6")
 					(unit 1)
@@ -8736,7 +8396,7 @@
 			(uuid "ae5721c1-aba6-41e2-a1b8-e63dd3524e36")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C7")
 					(unit 1)
@@ -8746,7 +8406,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 237.49 127 0)
+		(at 209.55 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8757,7 +8417,7 @@
 		(fields_autoplaced yes)
 		(uuid "7daf11ce-fac2-483e-a10e-e5df57783b27")
 		(property "Reference" "#PWR03"
-			(at 237.49 133.35 0)
+			(at 209.55 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8768,7 +8428,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 237.49 132.08 0)
+			(at 209.55 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8778,7 +8438,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 127 0)
+			(at 209.55 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8789,7 +8449,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 127 0)
+			(at 209.55 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8800,7 +8460,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 127 0)
+			(at 209.55 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8814,7 +8474,7 @@
 			(uuid "44f3ac0f-25ee-41eb-a25a-52d1b1162e35")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR03")
 					(unit 1)
@@ -8823,8 +8483,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 205.74 62.23 0)
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 199.39 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8832,9 +8492,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "8019c975-3d13-4abc-b34e-eb665a2c42da")
-		(property "Reference" "TP2"
-			(at 205.486 55.88 90)
+		(uuid "7ef9ffda-362e-4d51-8cb5-084ab1223c4c")
+		(property "Reference" "J5"
+			(at 213.868 135.382 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8843,9 +8503,8 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 208.28 58.928 90)
-			(hide yes)
+		(property "Value" "BATT-"
+			(at 196.088 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8854,8 +8513,8 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 210.82 62.23 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 199.39 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8866,7 +8525,84 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 62.23 0)
+			(at 199.39 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 199.39 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e61c5d39-b044-4861-8b62-b9fab1ee1798")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 208.28 62.23 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8019c975-3d13-4abc-b34e-eb665a2c42da")
+		(property "Reference" "TP2"
+			(at 208.026 55.88 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 210.82 58.928 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 213.36 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8877,7 +8613,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 205.74 62.23 0)
+			(at 208.28 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8891,7 +8627,7 @@
 			(uuid "2659bf76-6970-4a72-93a8-f1b3ce177cc8")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "TP2")
 					(unit 1)
@@ -8976,7 +8712,7 @@
 			(uuid "cc67964f-5863-4e0d-80ff-78f73fef08c0")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "Q1")
 					(unit 1)
@@ -9057,7 +8793,7 @@
 			(uuid "c4ceabaf-ef01-403b-a46e-01ad9626dad4")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C5")
 					(unit 1)
@@ -9139,7 +8875,7 @@
 			(uuid "193fb7ba-88fd-4c56-9ccb-cb21878d87a0")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R10")
 					(unit 1)
@@ -9221,7 +8957,7 @@
 			(uuid "9a8b16a7-615d-4cad-ba0a-0ffd5df1ae7c")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "D2")
 					(unit 1)
@@ -9306,7 +9042,7 @@
 			(uuid "d967a504-5565-44ff-97a8-ce996cdf1447")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "Q2")
 					(unit 1)
@@ -9384,7 +9120,7 @@
 			(uuid "f562a999-0e13-4195-a516-3ec05fa5b30e")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR021")
 					(unit 1)
@@ -9394,7 +9130,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 228.6 92.71 0)
+		(at 227.33 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9405,7 +9141,7 @@
 		(fields_autoplaced yes)
 		(uuid "89d4b1cc-afad-488c-9ce0-c017681722d6")
 		(property "Reference" "#PWR010"
-			(at 228.6 96.52 0)
+			(at 227.33 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9416,7 +9152,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 228.6 87.63 0)
+			(at 227.33 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9426,7 +9162,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 92.71 0)
+			(at 227.33 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9437,7 +9173,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 92.71 0)
+			(at 227.33 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9448,7 +9184,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 228.6 92.71 0)
+			(at 227.33 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9462,7 +9198,7 @@
 			(uuid "17aa5263-db6a-4959-b83a-607e45f0c97b")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR010")
 					(unit 1)
@@ -9471,8 +9207,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 204.47 93.98 0)
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 231.14 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9480,11 +9216,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8dc04a7f-0643-43ec-8f26-a264d99da40f")
-		(property "Reference" "#PWR01"
-			(at 204.47 97.79 0)
-			(hide yes)
+		(uuid "8add7932-c70a-4a81-9436-e4bd41401c65")
+		(property "Reference" "J2"
+			(at 243.84 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9493,8 +9227,8 @@
 				)
 			)
 		)
-		(property "Value" "+BATT"
-			(at 204.47 88.9 0)
+		(property "Value" "solar+"
+			(at 226.06 127.254 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9503,8 +9237,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 204.47 93.98 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 231.14 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9515,7 +9249,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 93.98 0)
+			(at 231.14 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 231.14 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "233e4eaa-212e-4a38-8f5e-68ed2130ac0c")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 208.28 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8dc04a7f-0643-43ec-8f26-a264d99da40f")
+		(property "Reference" "#PWR01"
+			(at 208.28 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 208.28 88.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9526,7 +9338,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 204.47 93.98 0)
+			(at 208.28 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9540,7 +9352,7 @@
 			(uuid "1d3134c1-3f27-4bce-ba99-852f68381253")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR01")
 					(unit 1)
@@ -9619,7 +9431,7 @@
 			(uuid "c1db92d4-bd1b-4576-8c33-ca0208065236")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR036")
 					(unit 1)
@@ -9699,7 +9511,7 @@
 			(uuid "056696cb-6b17-4755-9977-fa9cb58b0175")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C4")
 					(unit 1)
@@ -9741,7 +9553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 114.3 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9781,7 +9593,7 @@
 			(uuid "5e8a01f7-b9c8-4ada-93b9-25a2a403ef9e")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C1")
 					(unit 1)
@@ -9791,7 +9603,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 208.28 55.88 0)
+		(at 210.82 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9802,7 +9614,7 @@
 		(fields_autoplaced yes)
 		(uuid "945c67d3-a27f-4adb-b316-b1ad54ffdfe4")
 		(property "Reference" "#PWR013"
-			(at 208.28 59.69 0)
+			(at 210.82 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9813,7 +9625,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 208.28 50.8 0)
+			(at 210.82 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9823,7 +9635,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 55.88 0)
+			(at 210.82 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9834,7 +9646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 55.88 0)
+			(at 210.82 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9845,7 +9657,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 208.28 55.88 0)
+			(at 210.82 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9859,7 +9671,7 @@
 			(uuid "862e5f09-5e7f-454f-8cd4-f541af21df75")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR013")
 					(unit 1)
@@ -9943,7 +9755,7 @@
 			(uuid "bff859a4-f566-45f4-a5e8-0399c01bfc1b")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "RV2")
 					(unit 1)
@@ -10021,163 +9833,9 @@
 			(uuid "2e5685cb-73b3-48dd-9a5e-0093b713d976")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 220.98 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9a4ad825-95f5-4f6b-9b32-46cea8c0a115")
-		(property "Reference" "TP7"
-			(at 221.234 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 218.44 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 215.9 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 215.9 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5a865a67-f8cb-4ae8-b94e-1287a8dbe20c")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 78.74 165.1 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9e1b5894-cd59-4d98-8237-132c6ed2024d")
-		(property "Reference" "TP11"
-			(at 72.39 165.354 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 75.438 162.56 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 78.74 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 78.74 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "553d893f-4621-4fc7-9073-17516d96b027")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -10257,7 +9915,7 @@
 			(uuid "47c8716c-66ef-4617-afba-2392153db7bd")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C3")
 					(unit 1)
@@ -10267,7 +9925,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 195.58 125.73 0)
+		(at 231.14 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10275,9 +9933,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b4c827cb-4f17-428e-9226-52d542d26535")
+		(uuid "ac93a493-8d70-4ebc-bc57-8cc14cc85872")
 		(property "Reference" "J3"
-			(at 201.93 119.38 0)
+			(at 243.332 135.382 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10286,8 +9944,8 @@
 				)
 			)
 		)
-		(property "Value" "CE_MPPSET"
-			(at 197.104 132.334 0)
+		(property "Value" "solar-"
+			(at 226.822 134.874 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10297,7 +9955,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 195.58 125.73 0)
+			(at 231.14 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10308,7 +9966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 125.73 0)
+			(at 231.14 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10319,7 +9977,160 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 195.58 125.73 0)
+			(at 231.14 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6d98df04-c4cc-426b-9790-02d52e846878")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 222.25 59.69 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b3cc1eff-f875-4696-870f-dd372dc3897e")
+		(property "Reference" "TP8"
+			(at 222.504 66.04 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 219.71 62.992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 217.17 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 222.25 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 199.39 118.11 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b4c827cb-4f17-428e-9226-52d542d26535")
+		(property "Reference" "J1"
+			(at 212.09 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CE_MPPSET"
+			(at 193.294 117.856 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 199.39 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 199.39 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10333,86 +10144,9 @@
 			(uuid "65bf5033-fa2d-48eb-8f45-21d6415ebeb1")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 213.36 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b68e404f-f0c0-4588-b01b-5c878c4519aa")
-		(property "Reference" "TP4"
-			(at 213.614 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 210.82 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 208.28 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 208.28 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 213.36 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e81d0bbd-c6b1-4b57-a894-da55d5b6359c")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -10492,7 +10226,7 @@
 			(uuid "969e0b6a-a9c8-43e6-b523-700b17d59a01")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R1")
 					(unit 1)
@@ -10571,7 +10305,7 @@
 			(uuid "1bd92765-866a-49af-b4a2-5cef56d9b055")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR016")
 					(unit 1)
@@ -10581,7 +10315,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 223.52 92.71 0)
+		(at 220.98 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10592,7 +10326,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2ec486b-9f24-40c9-9813-ffce5ccde527")
 		(property "Reference" "#PWR05"
-			(at 223.52 99.06 0)
+			(at 220.98 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10603,7 +10337,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 223.52 97.79 0)
+			(at 220.98 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10613,7 +10347,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 223.52 92.71 0)
+			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10624,7 +10358,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 92.71 0)
+			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10635,7 +10369,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 223.52 92.71 0)
+			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10649,7 +10383,7 @@
 			(uuid "e2f9bb44-e6a5-43b5-b622-f109299915dc")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR05")
 					(unit 1)
@@ -10728,7 +10462,7 @@
 			(uuid "0aa992de-44fb-4bfb-a231-58f9c476a6ca")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR031")
 					(unit 1)
@@ -10818,9 +10552,86 @@
 			(uuid "97cdc2ea-e42f-49ad-a78e-4402a6094c5f")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 217.17 59.69 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c969207f-fb27-4ef4-a688-30776f4965dc")
+		(property "Reference" "TP6"
+			(at 217.424 66.04 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 214.63 62.992 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 212.09 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.09 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 217.17 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+		)
+		(instances
+			(project "BQ24650_1U_SolarChargerBoard copy"
+				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -10858,7 +10669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 115.57 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10898,7 +10709,7 @@
 			(uuid "0d3c180c-1b71-4b47-9b01-2238c8c21d5e")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "C6")
 					(unit 1)
@@ -10907,85 +10718,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 228.6 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cf828f8a-cd7a-4ff2-9576-4c8cdbdd6aaf")
-		(property "Reference" "TP10"
-			(at 228.854 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 226.06 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 223.52 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 228.6 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bab2ea18-f4c9-4960-ab7a-e52cd4d54d70")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 228.6 92.71 180)
+		(at 227.33 93.98 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10996,7 +10730,7 @@
 		(fields_autoplaced yes)
 		(uuid "cf9c445f-85dd-400e-a208-2d76ea17cf68")
 		(property "Reference" "#FLG03"
-			(at 228.6 94.615 0)
+			(at 227.33 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11007,7 +10741,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 228.6 97.79 0)
+			(at 227.33 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11018,7 +10752,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 92.71 0)
+			(at 227.33 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11029,7 +10763,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 92.71 0)
+			(at 227.33 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11040,7 +10774,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 228.6 92.71 0)
+			(at 227.33 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11054,7 +10788,7 @@
 			(uuid "5811ebbe-5f39-40aa-9068-df81ffb3866d")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#FLG03")
 					(unit 1)
@@ -11139,86 +10873,9 @@
 			(uuid "e3cfa9da-b516-46ed-9040-bc18c755bf24")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 215.9 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d70bcf83-b0bd-4096-a4f9-0c80806d29be")
-		(property "Reference" "TP5"
-			(at 216.154 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 213.36 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 210.82 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 210.82 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 215.9 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "10e56db4-26f5-42d2-af79-5cde0a369d0c")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -11297,7 +10954,7 @@
 			(uuid "bd85709d-ec3e-4044-b482-2adfc4cfba0c")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R2")
 					(unit 1)
@@ -11379,7 +11036,7 @@
 			(uuid "b779b708-38f3-4359-b1d0-4ea33663b480")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R9")
 					(unit 1)
@@ -11389,7 +11046,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 208.28 60.96 180)
+		(at 210.82 60.96 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11399,7 +11056,7 @@
 		(dnp no)
 		(uuid "e1e81c10-0937-425a-ac9b-cddf9c411def")
 		(property "Reference" "TP1"
-			(at 208.534 67.31 90)
+			(at 211.074 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11409,7 +11066,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 205.74 64.262 90)
+			(at 208.28 64.262 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11420,7 +11077,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 203.2 60.96 0)
+			(at 205.74 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11431,7 +11088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 60.96 0)
+			(at 205.74 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11442,7 +11099,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 208.28 60.96 0)
+			(at 210.82 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11456,7 +11113,7 @@
 			(uuid "fafb248c-6dfd-4ee6-8035-022902cebe3f")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "TP1")
 					(unit 1)
@@ -11496,7 +11153,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 124.46 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11536,7 +11193,7 @@
 			(uuid "33409108-894f-4dae-85b8-99d3c851f05a")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R12")
 					(unit 1)
@@ -11615,7 +11272,7 @@
 			(uuid "b339f22e-52c8-47d7-8ab1-96db748424da")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R11")
 					(unit 1)
@@ -11696,7 +11353,7 @@
 			(uuid "fa5833c5-b3cd-46f9-853d-e77e0c4b53c9")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "R8")
 					(unit 1)
@@ -11775,7 +11432,7 @@
 			(uuid "0d576658-6266-47eb-9fc0-677fe96228fc")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR06")
 					(unit 1)
@@ -11785,7 +11442,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 204.47 93.98 180)
+		(at 208.28 93.98 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11796,7 +11453,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1a75bc7-5f08-4bec-8fbf-fd1e2dc7c5ce")
 		(property "Reference" "#FLG02"
-			(at 204.47 95.885 0)
+			(at 208.28 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11807,7 +11464,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 204.47 99.06 0)
+			(at 208.28 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11818,7 +11475,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 93.98 0)
+			(at 208.28 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11829,7 +11486,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 93.98 0)
+			(at 208.28 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11840,7 +11497,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 204.47 93.98 0)
+			(at 208.28 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11854,86 +11511,9 @@
 			(uuid "241639df-db1e-4895-81fd-f310ae848305")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 218.44 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f2664a30-9b66-4f10-92a3-8d3f03862fb5")
-		(property "Reference" "TP6"
-			(at 218.694 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 215.9 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 213.36 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 218.44 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "92985cd6-4a39-4d11-b9e5-019d5a36044e")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -12010,7 +11590,7 @@
 			(uuid "e65ad253-931e-421f-9184-593c58bff8e9")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR018")
 					(unit 1)
@@ -12019,85 +11599,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 226.06 60.96 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "fd7d4496-c886-4ccd-9c6b-9784ca594b90")
-		(property "Reference" "TP9"
-			(at 226.314 67.31 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 223.52 64.262 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 226.06 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e95d7867-7128-4809-96d7-a7d0fd3dde12")
-		)
-		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
-				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
-					(reference "TP9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+BATT")
-		(at 217.17 125.73 0)
+		(at 241.3 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12107,7 +11610,7 @@
 		(dnp no)
 		(uuid "fdea6ab5-cc2b-4e2a-be04-14caaabaf523")
 		(property "Reference" "#PWR07"
-			(at 217.17 129.54 0)
+			(at 241.3 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12118,7 +11621,7 @@
 			)
 		)
 		(property "Value" "Vin"
-			(at 217.17 121.412 0)
+			(at 241.3 122.682 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12128,7 +11631,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 125.73 0)
+			(at 241.3 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12139,7 +11642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 125.73 0)
+			(at 241.3 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12150,7 +11653,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 217.17 125.73 0)
+			(at 241.3 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12164,7 +11667,7 @@
 			(uuid "f456cc8e-edc4-4f43-83de-907bd2523358")
 		)
 		(instances
-			(project "BQ24650_1U_SolarChargerBoard"
+			(project "BQ24650_1U_SolarChargerBoard copy"
 				(path "/97f2ae87-13ff-4eec-a108-f469a6765d40"
 					(reference "#PWR07")
 					(unit 1)
